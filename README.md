@@ -62,8 +62,8 @@ Minha stack principal foca em performance, escalabilidade e desenvolvimento ági
 
 Estou sempre aberto a discutir novas ideias, arquiteturas de software e oportunidades de negócios.
 
-- **X:** [https://x.com/luizfuzeta](#)
-- **Email:** [fuzetacel@gmail.com)
+- **X:** [x.com/luizfuzeta](https://x.com/luizfuzeta)
+- **Email:** [fuzetacel@gmail.com](mailto:fuzetacel@gmail.com)
 
 <br/>
 <div align="center">
