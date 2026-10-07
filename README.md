@@ -47,6 +47,9 @@ O que muda em relação à maioria dos devs: eu **uso de verdade** o que constru
 | Sistema | O que faz | Status |
 |---|---|---|
 | **Zeta Orçamentos** | Orçamento comercial gerado a partir do próprio projeto (DXF/DWG, quantitativos, PDF) | Em produção comercial |
+| **Norte Trading Desk** | Mesa pessoal de pesquisa e gestão de risco em Hyperliquid (simulação, motor em prova) | Em pesquisa |
+| **OF Finance Tool** | Organizador financeiro para renda variável (núcleo local e auditável) | Em descoberta |
+| **O Porquê das Coisas** | Canal de vídeos curtos explicando IA com time multiagente e verificação factual | Arquitetura aprovada |
 | **Zeta Funcionários** | Vales, presença e pagamentos semanais do time — WhatsApp manual, RLS, gestão financeira | Em produção |
 | **OzFix** | Gestão de ordens de serviço para assistência técnica mobile-first | Em beta |
 | **Zeta Stack** | Orquestração local de serviços de IA: Claude, Codex, GLM, escritas canônicas, gate de custo | Em evolução |
