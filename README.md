@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="warplet-825328.png" width="180" style="border-radius: 50%" />
+  <img src="avatar-zeta.png" width="180" style="border-radius: 50%" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3D4A,100:2E7D8C&height=250&section=header&text=Luiz%20Fuzeta&fontSize=90&fontAlignY=35&desc=Software%20Engineer%20%7C%20Automation%20%7C%20AI%20Systems&descAlignY=55&descSize=25&fontColor=ffffff" width="100%" />
 </div>
 
